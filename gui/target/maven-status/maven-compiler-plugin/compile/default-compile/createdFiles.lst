@@ -1,0 +1,4 @@
+com/javatar/domain/User.class
+com/javatar/controller/UserController.class
+com/javatar/config/AppConfig.class
+com/javatar/repository/UserRepository.class
